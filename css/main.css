@@ -20,7 +20,7 @@ body {
   scroll-behavior: smooth;
   color: var(--color-one);
   background:
-    url("/assets/bg-home.jpg"),
+    url("./assets/bg-home.jpg"),
     linear-gradient(rgb(37, 37, 37), rgb(79, 78, 78));
   background-position: center;
   background-attachment: fixed;
